@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "my-mcp-server": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "D:/GitRepoStephan/mcp-server-sample/MCPServerSample/MCPServerSample.csproj"
+            ]
+        }
+    }
+}
